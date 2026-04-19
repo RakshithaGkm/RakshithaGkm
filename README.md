@@ -34,6 +34,9 @@
 - Created dashboards using Pivot Tables and charts  
 - Identified trends and improved reporting  
 
+### 🔹 Python Data Analysis
+- Performed data cleaning and analysis using Pandas and NumPy  
+- Extracted insights from structured datasets  
 ---
 
 ## 📫 Connect with me
