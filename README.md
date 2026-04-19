@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**RakshithaGkm/RakshithaGkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rakshitha 👋
 
-Here are some ideas to get you started:
+🎓 AIML Graduate from JSS Academy of Technical Education, Bengaluru  
+📊 Aspiring Data Analyst  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+- Passionate about data analysis and visualization
+- Skilled in transforming raw data into meaningful insights
+- Interested in solving real-world business problems using data
+
+---
+
+## 🛠️ Skills
+- SQL  
+- Microsoft Excel  
+- Power BI  
+- Data Analysis  
+- Data Visualization  
+- DAX  
+- Power Query  
+
+---
+
+## 📊 Projects
+
+### 🔹 Power BI – ShopNest Dashboard
+- Built interactive dashboards using DAX and Power Query  
+- Analyzed e-commerce sales, customer behavior, and trends  
+
+### 🔹 Excel Sales Dashboard
+- Created dashboards using Pivot Tables and charts  
+- Identified trends and improved reporting  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/rakshitha-gkm
+- Email: rakshithagkm@gmail.com
